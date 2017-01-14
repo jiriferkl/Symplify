@@ -80,7 +80,6 @@
             "Symplify\\ActionAutowire\\": "packages/ActionAutowire/src",
             "Symplify\\AutoServiceRegistration\\": "packages/AutoServiceRegistration/src",
             "Symplify\\CodingStandard\\": "packages/CodingStandard/src",
-            "SymplifyCodingStandard\\": "packages/CodingStandard/src/SymplifyCodingStandard",
             "Symplify\\ControllerAutowire\\": "packages/ControllerAutowire/src",
             "Symplify\\DefaultAutowire\\": "packages/DefaultAutowire/src",
             "Symplify\\ModularDoctrineFilters\\": "packages/ModularDoctrineFilters/src",
@@ -91,6 +90,7 @@
             "Symplify\\SymfonyEventDispatcher\\": "packages/SymfonyEventDispatcher/src",
             "Symplify\\PackageBuilder\\": "packages/PackageBuilder/src",
             "Symplify\\MultiCodingStandard\\": "packages/MultiCodingStandard/src",
+            "Symplify\\PHP7_CodeSniffer\\": "packages/PHP7_CodeSniffer/src",
 
             "Zenify\\ModularLatteFilters\\": "packages/ModularLatteFilters/src",
             "Zenify\\NetteDatabaseFilters\\": "packages/NetteDatabaseFilters/src",
@@ -117,6 +117,7 @@
             "Symplify\\SymfonyEventDispatcher\\Tests\\": "packages/SymfonyEventDispatcher/tests",
             "Symplify\\PackageBuilder\\Tests\\": "packages/PackageBuilder/tests",
             "Symplify\\MultiCodingStandard\\Tests\\": "packages/MultiCodingStandard/tests",
+            "Symplify\\PHP7_CodeSniffer\\Tests\\": "packages/PHP7_CodeSniffer/tests",
 
             "Zenify\\ModularLatteFilters\\Tests\\": "packages/ModularLatteFilters/tests",
             "Zenify\\NetteDatabaseFilters\\Tests\\": "packages/NetteDatabaseFilters/tests",
